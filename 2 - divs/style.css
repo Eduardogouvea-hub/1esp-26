@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Comic Relief", Roboto, cursive;
+}
+
+
+
+header {
+    text-align: center;
+    background-color: #1e1e1e;
+    padding: 15px 0;
+}
+
+a {
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a i {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+img{
+    width: 100%;
+    height: 500px;
+    object-fit: contain;
+}
+
+div{
+    text-align: center;
+}
+
+div img{
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    margin: 20px;
+}
+
+h1{
+    font-size: 40px;
+    color: #a71126;
+    text-align: center;
+    margin: 40px 0 30px;
+}
+h2{
+    font-size: 32px;
+    color: #171d1c;
+    margin: 50px 40px 30px;
+}
+p{
+    margin: 20px 40px;
+}
